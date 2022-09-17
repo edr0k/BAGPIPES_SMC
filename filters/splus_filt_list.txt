@@ -1,0 +1,12 @@
+filters/F0378.dat
+filters/F0395.dat
+filters/F0410.dat
+filters/F0430.dat
+filters/F0515.dat
+filters/F0660.dat
+filters/F0861.dat
+filters/gSDSS.dat
+filters/iSDSS.dat
+filters/rSDSS.dat
+filters/uJAVA.dat
+filters/zSDSS.dat
